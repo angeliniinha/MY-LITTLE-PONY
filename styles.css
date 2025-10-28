@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'equestria'; 
-    src: url('fonte/equestria.ttf');
+    src: url('equestria.ttf');
     font-weight: normal;
     font-style: normal;
   }
@@ -196,4 +196,5 @@ body {
     width: 480px;
     height: 340px;
   }
+
   
